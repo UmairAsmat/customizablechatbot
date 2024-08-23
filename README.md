@@ -1,7 +1,5 @@
-Here’s a beautiful and unique `README.md` file for your GitHub repository. This README is tailored to your Streamlit app that uses OpenAI's GPT API to create a customizable chatbot. It includes sections that introduce the project, explain installation steps, describe usage, and offer contact information for further inquiries.
 
-```markdown
-# AI Mentor ChatBot
+## AI Mentor ChatBot
 
 Welcome to **AI Mentor ChatBot**! This repository hosts a Streamlit application designed to provide a customizable AI chatbot experience using OpenAI's GPT-3.5 Turbo API. The chatbot serves as an AI technical expert, helping users with their AI-related questions and providing informative guidance on topics like machine learning, deep learning, natural language processing, computer vision, and more.
 
