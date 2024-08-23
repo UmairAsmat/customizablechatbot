@@ -72,22 +72,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-For questions, feedback, or support, please reach out to [your-email@example.com](mailto:your-email@example.com).
+For questions, feedback, or support, please reach out to me
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
 Happy chatting with your AI Mentor! 🌐🤖
 ```
 
-### Tips for Your Repository
-
-- **Include a `requirements.txt` file** in your repository to list all necessary dependencies.
-- **Add a `.gitignore` file** to avoid committing sensitive information like your `.streamlit/secrets.toml` file.
-- **Include Screenshots or Demos**: Visual aids can significantly enhance your README, showing users what they can expect from the app.
-- **Provide Usage Examples**: Consider adding a section with common use cases or examples of questions users can ask the chatbot.
-
-By following this structure and content for your `README.md`, you'll provide a comprehensive and user-friendly guide that encourages more people to use and contribute to your project.
